@@ -1,0 +1,43 @@
+body {
+    font-family: 'Roboto', Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    margin:0;
+    font: 100% /1.5;
+    color: rgb(37, 37, 37);
+    background-color: white;
+}
+.column {
+
+    height: 200px;
+    font-family: sans-serif;
+    color: white;
+    border: 1px solid #ccc;
+    display:flex;
+    display: wrap;
+    align-items: center
+}
+.outer-container div {
+    width: 20%;
+    padding: 2%;
+}
+
+.image1 {
+    background: black;
+    width: 40%;
+
+}
+
+
+h1 {
+    font-size: 50px;
+    
+}
+
+p {
+    text-align: justify;
+    width: 50%;
+    height: 50%;
+}
+
+
+
